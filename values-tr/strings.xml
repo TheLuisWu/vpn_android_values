@@ -92,7 +92,7 @@
     <string name="vip_info_text_2">Uluslararası Konum</string>
     <string name="vip_info_text_3">Daha Hızlı Bağlantı</string>
     <string name="vip_btn_text">VIP\'yi ücretsiz dene</string>
-    <string name="loading">Loading</string>
+    <string name="loading">Loading...</string>
     <string name="vip_not_support_title">Satın alınamadı</string>
     <string name="vip_not_support_content">Cihazınız şu an Google Play satın almayı desteklemiyor.</string>
     <string name="server_signal_full">Server dolu, daha sonra bağlanın</string>
