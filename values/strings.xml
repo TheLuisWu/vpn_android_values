@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Top VPN</string>
+    <string name="app_name_pro">Top VPN Pro</string>
+    <string name="menu_item_about">About</string>
+
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="vpn_connected_status">Connected</string>
+    <string name="vpn_disconnected_status">Tap to Connect</string>
+
+    <!--v0.6-->
+    <string name="home_activity_connecting">Connecting…</string>
+    <string name="home_activity_connected">Connected</string>
+    <string name="home_activity_disconnected">Disconnected</string>
+    <string name="home_activity_menu_setting">Settings</string>
+    <string name="home_activity_menu_feedback">Feedback</string>
+    <string name="home_activity_menu_server">Server</string>
+    <string name="home_activity_action_retry">Retry</string>
+    <string name="home_activity_menu_about">About</string>
+    <string name="home_activity_menu_rate">Rate us</string>
+    <string name="home_drop_item_1">Best Choice</string>
+    <string name="home_vip">VIP</string>
+    <string name="home_vip_desc">Enjoy more privileges</string>
+    <string name="about_menu_1">Share to friends</string>
+    <string name="about_menu_2">Privacy Policy</string>
+    <string name="about_menu_3">Help us translate</string>
+    <string name="about_menu_4">Contributors</string>
+    <string name="about_company">TOP VPN TECHNOLOGY</string>
+
+    <string name="home_dropdown_option_1">Best Choice</string>
+    <string name="home_location_1">You are at</string>
+    <string name="home_server_connect">Connect to</string>
+    <string name="home_server_connecting">Connecting to</string>
+    <string name="home_server_connected">Connected</string>
+    <string name="home_share_content">Awesome VPN app, come with me! https://play.google.com/store/apps/details?id=com.topvpn.free</string>
+    <string name="home_share_title">Awesome VPN</string>
+    <string name="preference_category_1">Connection</string>
+    <string name="preference_category_2">Information</string>
+    <string name="preference_notification_title">Notification</string>
+    <string name="preference_connect_when_open_title">Connect when VPN starts</string>
+
+    <string name="feedback_edit_default">Please describe your issue here.</string>
+    <string name="feedback_contacts">Contacts</string>
+    <string name="feedback_email_default">Email</string>
+    <string name="feedback_bottom_btn">SUBMIT</string>
+    <string name="email_error">Please double check your email address.</string>
+    <string name="content_error">Please describe the issue you meet.</string>
+    <string name="faq">FAQ</string>
+    <string name="submitting_tip">Submitting... ...</string>
+    <string name="content_email_null_after">, so your issue could be located accurately.</string>
+    <string name="content_email_null_befor">Please finish the items with</string>
+    <string name="feedback_btn">GOT IT</string>
+
+    <string name="feedback_failed">Submit failed. Please check your network, and try again.</string>
+    <string name="feedback_success">Thank you for your feedback. Given time, issues will be fixed, and suggestions will be considered. Thank you.</string>
+
+    <string name="feedback_exit">Your issue hasn\'t been submitted yet. Are you sure to exit?</string>
+    <string name="home_toast_no_internet">No available network, please retry later.</string>
+    <string name="home_disconnect_dialog_title">Do you want to disconnect?</string>
+    <string name="home_disconnect_dialog_positive">DISCONNECT</string>
+    <string name="home_disconnect_dialog_negative">VISIT</string>
+
+    <string name="country_name_ae">United Arab Emirates</string>
+    <string name="country_name_ar">Argentina</string>
+    <string name="country_name_au">Australia</string>
+    <string name="country_name_br">Brazil</string>
+    <string name="country_name_ca">Canada</string>
+    <string name="country_name_cn">China</string>
+    <string name="country_name_ch">Switzerland</string>
+    <string name="country_name_de">Germany</string>
+    <string name="country_name_dz">Algeria</string>
+    <string name="country_name_es">Spain</string>
+    <string name="country_name_fr">France</string>
+    <string name="country_name_gb">United Kingdom</string>
+    <string name="country_name_hk">Hong Kong</string>
+    <string name="country_name_ie">Ireland</string>
+    <string name="country_name_in">India</string>
+    <string name="country_name_it">Italy</string>
+    <string name="country_name_jp">Japan</string>
+    <string name="country_name_kr">Korea</string>
+    <string name="country_name_nl">Netherlands</string>
+    <string name="country_name_ru">Russia</string>
+    <string name="country_name_sa">Saudi Arabia</string>
+    <string name="country_name_sg">Singapore</string>
+    <string name="country_name_tw">Taiwan</string>
+    <string name="country_name_us">United States</string>
+
+    <string name="vip_info_text_1">No ADS</string>
+    <string name="vip_info_text_2">Worldwide Location</string>
+    <string name="vip_info_text_3">Faster Connection</string>
+    <string name="vip_btn_text">Try VIP free</string>
+    <string name="loading">Loading</string>
+    <string name="vip_not_support_title">Can\'t make purchases</string>
+    <string name="vip_not_support_content">Your device doesn\'t support Google play purchases at this time.</string>
+    <string name="server_signal_full">Server is full, connect later</string>
+    <string name="server_signal_zero">This server is unavailable now, please retry later.</string>
+    <string name="home_reward">Watch a video to get 20-minute premium time</string>
+    <string name="home_reward_time">Remaining time: %s</string>
+    <string name="home_reward_expired_title">Expired</string>
+    <string name="home_reward_expired_content">Your premium time is up. The trial could be converted to a paid</string>
+    <string name="home_reward_expired_positive">CONVERT</string>
+    <string name="home_reward_expired_negative">GIVE UP</string>
+    <string name="home_reward_success_title">Succeed</string>
+    <string name="home_reward_success_content">You can enjoy premium servers for 20 minutes.</string>
+    <string name="home_reward_fail_title">Failed</string>
+    <string name="home_reward_fail_content">You can not unlock premium servers for the video is not finished.</string>
+    <string name="contributors_bottom_text">Many thanks to above translators!</string>
+</resources>

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Top VPN</string>
+    <string name="app_name_pro">Top VPN Pro</string>
+    
+    <string name="menu_item_about">Hakkında</string>
+ 
+
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">İptal</string>
+    <string name="vpn_connected_status">Bağlandı</string>
+    <string name="vpn_disconnected_status">Bağlana tıkla</string>
+
+    <!--v0.6-->
+    <string name="home_activity_connecting">Bağlanıyor…</string>
+    <string name="home_activity_connected">Bağlandı</string>
+    <string name="home_activity_disconnected">Bağlantı kesildi</string>
+    <string name="home_activity_menu_setting">Ayarlar</string>
+    <string name="home_activity_menu_feedback">Geri Bildirim</string>
+
+    <string name="home_activity_action_retry">Tekrar dene</string>
+    <string name="home_activity_menu_about">Hakkında</string>
+    <string name="home_activity_menu_rate">Bizi oyla</string>
+    <string name="home_drop_item_1">İyi Seçim</string>
+    <string name="home_vip">VIP</string>
+    <string name="home_vip_desc">Daha fazla gizliliğin tadını çıkar</string>
+    <string name="about_menu_1">Arkadaşlarla paylaş</string>
+    <string name="about_menu_2">Gizlilik Politikası</string>
+    <string name="about_company">TOP VPN TEKNOLOJİSİ</string>
+
+    <string name="home_dropdown_option_1">iyi Seçim</string>
+    <string name="home_location_1">Buradasın</string>
+    <string name="home_server_connect">Şuna bağlan</string>
+    <string name="home_server_connecting">Şuna Bağlanıyor</string>
+    <string name="home_server_connected">Bağlandı</string>
+    <string name="home_share_content">Mükemmel VPN uygulaması, benimle gel! https://play.google.com/store/apps/details?id=com.topvpn.free</string>
+    <string name="home_share_title">Awesome VPN</string>
+  <string name="preference_notification_title">Notification</string>
+    <string name="preference_connect_when_open_title">Vpn başladığı zaman bağlan</string>
+
+
+    <string name="feedback_edit_default">Lütfen sorununuzu burada açıklayın.</string>
+    <string name="feedback_contacts">Kişiler</string>
+    <string name="feedback_email_default">E-posta</string>
+    <string name="feedback_bottom_btn">GÖNDER</string>
+
+
+    <string name="content_error">Lütfen karşılaştığınız sorunu açıklayın.</string>
+
+    <string name="submitting_tip">Gönderiliyor... ...</string>
+    <string name="content_email_null_after">, sorununuz kesin bir şekilde bulunmalı.</string>
+    <string name="content_email_null_befor">Lütfen bununla ilgili alanları tamamlayın</string>
+    <string name="feedback_btn">ANLADIM</string>
+
+    <string name="feedback_failed">Gönderme başarısız. Lütfen ağ bağlantınızı kontrol edin ve tekrar deneyin.</string>
+    <string name="feedback_success">Geri bildirinimiz için teşekkürler. Bu zaman içerisinde sorunlar düzeltilecektir ve öneriler değerlendirecektir. Teşekkürler.</string>
+
+    <string name="feedback_exit">Yorumlarınız henüz gönderilmedi. Çıkmak istediğinizden emin misiniz?</string>
+    <string name="home_toast_no_internet">Kullanılabilir ağ yok, lütfen daha sonra tekrar deneyin.</string>
+    <string name="home_disconnect_dialog_title">Bağlantıyı kesmek istiyor musunuz?</string>
+    <string name="home_disconnect_dialog_positive">BAĞLANTISI KES</string>
+    <string name="home_disconnect_dialog_negative">ZİYARET ET</string>
+
+
+
+    <string name="country_name_ae">Birleşik Arap Emirlikleri</string>
+    <string name="country_name_ar">Arjantin</string>
+    <string name="country_name_au">Avustralya</string>
+    <string name="country_name_br">Brezilya</string>
+    <string name="country_name_ca">Kanada</string>
+    <string name="country_name_cn">Çin</string>
+    <string name="country_name_ch">İsviçre</string>
+    <string name="country_name_de">Almanya</string>
+    <string name="country_name_dz">Algeria</string>
+    <string name="country_name_es">İspanya</string>
+    <string name="country_name_fr">Fransa</string>
+    <string name="country_name_gb">Birleşik Krallık</string>
+    <string name="country_name_hk">Hong Kong</string>
+    <string name="country_name_ie">İrlanda</string>
+    <string name="country_name_in">Hindistan</string>
+    <string name="country_name_it">Italy</string>
+    <string name="country_name_jp">Japonya</string>
+    <string name="country_name_kr">Kore</string>
+    <string name="country_name_nl">Hollanda</string>
+    <string name="country_name_ru">Rusya</string>
+    <string name="country_name_sa">Suudi Arabistan</string>
+    <string name="country_name_sg">Singapur</string>
+    <string name="country_name_tw">Taywan</string>
+    <string name="country_name_us">Birleşik Devlet(Amerika)</string>
+
+    <string name="vip_info_text_1">REKLAM YOK</string>
+    <string name="vip_info_text_2">Uluslararası Konum</string>
+    <string name="vip_info_text_3">Daha Hızlı Bağlantı</string>
+    <string name="vip_btn_text">VIP\'yi ücretsiz dene</string>
+    <string name="loading">Loading</string>
+    <string name="vip_not_support_title">Satın alınamadı</string>
+    <string name="vip_not_support_content">Cihazınız şu an Google Play satın almayı desteklemiyor.</string>
+    <string name="server_signal_full">Server dolu, daha sonra bağlanın</string>
+    <string name="server_signal_zero">Bu server şu an kullanılamaz, lütfen daha sonra tekrar deneyin.</string>
+</resources>
+

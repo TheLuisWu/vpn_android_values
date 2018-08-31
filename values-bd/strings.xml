@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Top VPN</string>
+    <string name="menu_item_toggle_global">Toggle global mode</string>
+    <string name="menu_item_switch">Proxy</string>
+    <string name="menu_item_about">About</string>
+    <string name="menu_item_exit">Exit</string>
+    <string name="config_url">Config URL</string>
+    <string name="config_not_set_value">Not set</string>
+    <string name="config_url_scan">Scan an QR code</string>
+    <string name="config_url_manual">Type manually</string>
+    <string name="config_url_scan_hint">Scan the QR code of your config url</string>
+    <string name="select_app">Select App</string>
+    <string name="select_app_detail">No</string>
+    <string name="proxied_apps">Per-App Proxy</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_more">More&#8230;</string>
+    <string name="vpn_connected_status">Connected</string>
+    <string name="vpn_disconnected_status">Tap to Connect</string>
+    <string name="exit_confirm_info">This will disconnect the VPN connection, Are you sure to exit?</string>
+    <string name="err_invalid_url">The config URL is invalid.</string>
+
+    <!--v0.6-->
+    <string name="home_activity_connecting">…সংযোজক</string>
+    <string name="home_activity_connected">সংযুক্ত</string>
+    <string name="home_activity_disconnected">অসংযুক্ত</string>
+    <string name="home_activity_menu_setting">সেটিংস</string>
+    <string name="home_activity_menu_feedback">প্রতিক্রিয়া</string>
+    <string name="home_activity_menu_speedtest">গতি পরীক্ষা</string>
+    <string name="home_activity_menu_server">সার্ভার</string>
+    <string name="home_activity_action_retry">পুনরায় চেষ্টা করা</string>
+    <string name="home_activity_menu_luckad">Luck Ad</string>
+</resources>

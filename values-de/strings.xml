@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Top VPN</string>
+    <string name="app_name_pro">Top VPN Pro</string>
+    
+    <string name="menu_item_about">Über uns</string>
+ 
+
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Abbrechen</string>
+    <string name="vpn_connected_status">Verbunden</string>
+    <string name="vpn_disconnected_status">Tippen, um zu verbinden</string>
+
+    <!--v0.6-->
+    <string name="home_activity_connecting">Verbinde…</string>
+    <string name="home_activity_connected">Verbunden</string>
+    <string name="home_activity_disconnected">Getrennt</string>
+    <string name="home_activity_menu_setting">Einstellungen</string>
+    <string name="home_activity_menu_feedback">Feedback</string>
+
+    <string name="home_activity_action_retry">Wiederholen</string>
+    <string name="home_activity_menu_about">Über</string>
+    <string name="home_activity_menu_rate">Bewerte uns</string>
+    <string name="home_drop_item_1">Beste Wahl</string>
+    <string name="home_vip">VIP</string>
+    <string name="home_vip_desc">Genieße mehr Vorteile</string>
+    <string name="about_menu_1">Mit Freunden teilen</string>
+    <string name="about_menu_2">Datenschutzrichtlinie</string>
+    <string name="about_company">TOP VPN TECHNOLOGIE</string>
+
+    <string name="home_dropdown_option_1">Beste Wahl</string>
+    <string name="home_location_1">Du bist in</string>
+    <string name="home_server_connect">Verbinden mit</string>
+    <string name="home_server_connecting">Verbinde mit</string>
+    <string name="home_server_connected">Verbunden</string>
+    <string name="home_share_content">Ich habe eine tolle VPN-App gefunden, probiere sie auch aus! https://play.google.com/store/apps/details?id=com.topvpn.free</string>
+    <string name="home_share_title">Super VPN</string>
+  <string name="preference_notification_title">Benachrichtigung</string>
+    <string name="preference_connect_when_open_title">Verbinden, wenn VPN startet</string>
+
+
+    <string name="feedback_edit_default">Bitte beschreibe dein Problem hier.</string>
+    <string name="feedback_contacts">Kontakt</string>
+    <string name="feedback_email_default">E-Mail</string>
+    <string name="feedback_bottom_btn">ABSENDEN</string>
+
+
+    <string name="content_error">Bitte beschreibe das Problem, auf das du getroffen bist.</string>
+
+    <string name="submitting_tip">Absenden... ...</string>
+    <string name="content_email_null_after">gekennzeichneten Felder, damit dein Problem genauestens untersucht werden kann.</string>
+    <string name="content_email_null_befor">Bitte vervollständige die mit</string>
+    <string name="feedback_btn">VERSTANDEN</string>
+
+    <string name="feedback_failed">Senden fehlgeschlagen. Bitte überprüfe deine Internetverbindung und versuche es erneut.</string>
+    <string name="feedback_success">Vielen Dank für dein Feedback. Gib uns ein bisschen Zeit und die Fehler werden behoben, sowie die Vorschläge berücksichtigt. Danke.</string>
+
+    <string name="feedback_exit">Dein Problem wurde noch nicht übermittelt. Bist du sicher, dass du aufhören willst?</string>
+    <string name="home_toast_no_internet">Kein verfügbares Netzwerk, bitte versuche es später erneut.</string>
+    <string name="home_disconnect_dialog_title">Möchtest du die Verbindung trennen?</string>
+    <string name="home_disconnect_dialog_positive">TRENNEN</string>
+    <string name="home_disconnect_dialog_negative">BESUCHEN</string>
+
+
+
+    <string name="country_name_ae">Vereinigte Arabische Emirate</string>
+    <string name="country_name_ar">Argentinien</string>
+    <string name="country_name_au">Australien</string>
+    <string name="country_name_br">Brasilien</string>
+    <string name="country_name_ca">Kanada</string>
+    <string name="country_name_cn">China</string>
+    <string name="country_name_ch">Schweiz</string>
+    <string name="country_name_de">Deutschland</string>
+    <string name="country_name_dz">Algerien</string>
+    <string name="country_name_es">Spanien</string>
+    <string name="country_name_fr">Frankreich</string>
+    <string name="country_name_gb">Vereinigtes Königreich</string>
+    <string name="country_name_hk">Hongkong</string>
+    <string name="country_name_ie">Irland</string>
+    <string name="country_name_in">Indien</string>
+    <string name="country_name_it">Italien</string>
+    <string name="country_name_jp">Japan</string>
+    <string name="country_name_kr">Korea</string>
+    <string name="country_name_nl">Niederlande</string>
+    <string name="country_name_ru">Russland</string>
+    <string name="country_name_sa">Saudi-Arabien</string>
+    <string name="country_name_sg">Singapur</string>
+    <string name="country_name_tw">Taiwan</string>
+    <string name="country_name_us">Vereinigte Staaten</string>
+
+    <string name="vip_info_text_1">Keine Werbung</string>
+    <string name="vip_info_text_2">Weltweiter Standort</string>
+    <string name="vip_info_text_3">Schnellere Verbindung</string>
+    <string name="vip_btn_text">Teste VIP gratis</string>
+    <string name="loading">Wird geladen</string>
+    <string name="vip_not_support_title">Zahlungen können nicht durchgeführt werden</string>
+    <string name="vip_not_support_content">Dein Gerät unterstützt derzeit keine Google Play-Käufe.</string>
+    <string name="server_signal_full">Server ist voll, bitte später verbinden</string>
+    <string name="server_signal_zero">Dieser Server ist derzeit nicht verfügbar. Bitte versuche es später erneut.</string>
+</resources>

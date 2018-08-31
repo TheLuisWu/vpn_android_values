@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--old string-->
+    <string name="config_url">Config URL</string>
+    <string name="config_not_set_value">Not set</string>
+    <string name="config_url_scan">Scan an QR code</string>
+    <string name="config_url_manual">Type manually</string>
+    <string name="config_url_scan_hint">Scan the QR code of your config url</string>
+    <string name="select_app">Select App</string>
+    <string name="select_app_detail">No</string>
+    <string name="proxied_apps">Per-App Proxy</string>
+    <string name="exit_confirm_info">This will disconnect the VPN connection, Are you sure to exit?</string>
+    <string name="err_invalid_url">The config URL is invalid.</string>
+    <string name="information_is_power">Information is Power.</string>
+
+    <!--not translate-->
+    <string name="forbidden_dialog_content">因政策原因，本服务在中国大陆不可用。谢谢谅解！</string>
+    <string name="forbidden_dialog_title">连接失败</string>
+    <string name="menu_item_toggle_global">Toggle global mode</string>
+    <string name="menu_item_switch">Proxy</string>
+    <string name="menu_item_exit">Exit</string>
+    <string name="home_activity_menu_speedtest">Speed Test</string>
+    <string name="feedback_question">Frequently Asked Questions</string>
+    <string name="feedback_issues">Select Your Issue Module</string>
+    <string name="img_add_info">Relevent screenshots could help us solve the issue faster.</string>
+
+    <string name="feedback_issues_clean">Clean</string>
+    <string name="feedback_issues_boost">Boost</string>
+    <string name="feedback_issues_boost_speedup">Boot Speedup</string>
+    <string name="feedback_issues_cup">CPU Cooler</string>
+    <string name="feedback_issues_backup_restore">Backup &amp; Restore</string>
+    <string name="feedback_issues_app2sd">App 2 SD</string>
+    <string name="feedback_issues_whatappclean">WhatsApp Clean</string>
+    <string name="feedback_issues_fm">File Manager</string>
+    <string name="feedback_issues_easy_swipe">Easy Swipe</string>
+    <string name="feedback_issues_duplicate_photo">Duplicate Photos</string>
+    <string name="feedback_issues_duplicate_file">Duplicate Files</string>
+    <string name="feedback_issues_applock">Applock</string>
+    <string name="feedback_issues_auto_task">Auto Tasks</string>
+    <string name="feedback_issues_game_booster">Game Booster</string>
+    <string name="feedback_issues_nm">Notification Manager</string>
+    <string name="feedback_issues_suggest">Suggestions</string>
+    <string name="feedback_issues_other">Other Issues</string>
+    <string name="large_files_no_exist">This file does not exist</string>
+
+    <string name="home_disconnect_dialog_ad_body">Keep phone away from low memory warning and overheat</string>
+    <string name="home_disconnect_dialog_ad_title">Top Cleaner</string>
+
+</resources>

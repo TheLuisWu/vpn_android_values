@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="feedback_issues">
+        <item>@string/feedback_issues_other</item>
+        <item>@string/feedback_issues_clean</item>
+        <item>@string/feedback_issues_boost</item>
+        <item>@string/feedback_issues_boost_speedup</item>
+        <item>@string/feedback_issues_cup</item>
+        <item>@string/feedback_issues_backup_restore</item>
+        <item>@string/feedback_issues_app2sd</item>
+        <item>@string/feedback_issues_whatappclean</item>
+        <item>@string/feedback_issues_fm</item>
+        <item>@string/feedback_issues_easy_swipe</item>
+        <item>@string/feedback_issues_duplicate_photo</item>
+        <item>@string/feedback_issues_duplicate_file</item>
+        <item>@string/feedback_issues_applock</item>
+        <item>@string/feedback_issues_auto_task</item>
+        <item>@string/feedback_issues_game_booster</item>
+        <item>@string/feedback_issues_nm</item>
+        <item>@string/feedback_issues_suggest</item>
+    </string-array>
+
+    <string-array name="feedback_values">
+        <item>b01</item>
+        <item>b02</item>
+        <item>b03</item>
+        <item>b04</item>
+        <item>b05</item>
+        <item>b06</item>
+        <item>b07</item>
+        <item>b08</item>
+        <item>b09</item>
+        <item>b10</item>
+        <item>b11</item>
+        <item>b12</item>
+        <item>b13</item>
+        <item>b14</item>
+        <item>b15</item>
+        <item>b16</item>
+        <item>b17</item>
+    </string-array>
+
+    <string-array name="contributors">
+        <item>Aleksandr</item>
+        <item>Ali Murat Ceitin</item>
+        <item>Arvin Alhakim</item>
+        <item>Michael Dallago</item>
+        <item>Aleksandar Bencun</item>
+        <item>Alvarogomez</item>
+        <item>Demdad Sovini</item>
+    </string-array>
+</resources>

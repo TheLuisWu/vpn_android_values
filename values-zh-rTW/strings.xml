@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Top VPN</string>
+    <string name="menu_item_toggle_global">Toggle global mode</string>
+    <string name="menu_item_switch">Proxy</string>
+    <string name="menu_item_about">About</string>
+    <string name="menu_item_exit">Exit</string>
+    <string name="config_url">Config URL</string>
+    <string name="config_not_set_value">Not set</string>
+    <string name="config_url_scan">Scan an QR code</string>
+    <string name="config_url_manual">Type manually</string>
+    <string name="config_url_scan_hint">Scan the QR code of your config url</string>
+    <string name="select_app">Select App</string>
+    <string name="select_app_detail">No</string>
+    <string name="proxied_apps">Per-App Proxy</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_more">More&#8230;</string>
+    <string name="vpn_connected_status">Connected</string>
+    <string name="vpn_disconnected_status">Tap to Connect</string>
+    <string name="exit_confirm_info">This will disconnect the VPN connection, Are you sure to exit?</string>
+    <string name="err_invalid_url">The config URL is invalid.</string>
+
+    <!--v0.6-->
+    <string name="home_activity_connecting">Connecting…</string>
+    <string name="home_activity_connected">Connected</string>
+    <string name="home_activity_disconnected">Disconnected</string>
+    <string name="home_activity_menu_setting">Settings</string>
+    <string name="home_activity_menu_feedback">Feedback</string>
+    <string name="home_activity_menu_speedtest">Speed Test</string>
+    <string name="home_activity_menu_server">Server</string>
+    <string name="home_activity_action_retry">Retry</string>
+    <string name="home_activity_menu_luckad">Luck Ad</string>
+    <string name="home_activity_menu_about">About</string>
+    <string name="home_activity_menu_rate">Rate us</string>
+    <string name="forbidden_dialog_content">因政策原因，本服务在中国大陆不可用。谢谢谅解！</string>
+    <string name="forbidden_dialog_title">连接失败</string>
+    <string name="home_drop_item_1">Best Choice</string>
+    <string name="home_vip">VIP</string>
+    <string name="home_vip_desc">Enjoy more privileges</string>
+    <string name="about_menu_1">Share to friends</string>
+    <string name="about_menu_2">Privacy Policy</string>
+    <string name="about_company">TOP VPN TECHNOLOGY</string>
+
+    <string name="home_dropdown_option_1">Best Choice</string>
+    <string name="home_location_1">You are at</string>
+    <string name="home_server_connect">Connect to</string>
+    <string name="home_server_connecting">Connecting to</string>
+    <string name="home_server_connected">Connected</string>
+    <string name="home_share_content">Awesome VPN app, come with me! https://play.google.com/store/apps/details?id=com.topvpn.free</string>
+    <string name="home_share_title">Awesome VPN</string>
+    <string name="preference_category_1">Connection</string>
+    <string name="preference_category_2">Information</string>
+    <string name="preference_notification_title">Notification</string>
+    <string name="preference_connect_when_open_title">Connect when VPN starts</string>
+
+    <string name="feedback_question">Frequently Asked Questions</string>
+    <string name="feedback_issues">Select Your Issue Module</string>
+    <string name="feedback_edit_default">Please describe your issue here.</string>
+    <string name="feedback_contacts">Contacts</string>
+    <string name="feedback_email_default">Email</string>
+    <string name="feedback_bottom_btn">SUBMIT</string>
+
+    <string name="feedback_issues_clean">Clean</string>
+    <string name="feedback_issues_boost">Boost</string>
+    <string name="feedback_issues_boost_speedup">Boot Speedup</string>
+    <string name="feedback_issues_cup">CPU Cooler</string>
+    <string name="feedback_issues_backup_restore">Backup &amp; Restore</string>
+    <string name="feedback_issues_app2sd">App 2 SD</string>
+    <string name="feedback_issues_whatappclean">WhatsApp Clean</string>
+    <string name="feedback_issues_fm">File Manager</string>
+    <string name="feedback_issues_easy_swipe">Easy Swipe</string>
+    <string name="feedback_issues_duplicate_photo">Duplicate Photos</string>
+    <string name="feedback_issues_duplicate_file">Duplicate Files</string>
+    <string name="feedback_issues_applock">Applock</string>
+    <string name="feedback_issues_auto_task">Auto Tasks</string>
+    <string name="feedback_issues_game_booster">Game Booster</string>
+    <string name="feedback_issues_nm">Notification Manager</string>
+    <string name="feedback_issues_suggest">Suggestions</string>
+    <string name="feedback_issues_other">Other Issues</string>
+    <string name="large_files_no_exist">This file does not exist</string>
+    <string name="email_error">Please double check your email address.</string>
+    <string name="content_error">Please describe the issue you meet.</string>
+    <string name="faq">FAQ</string>
+    <string name="submitting_tip">Submitting... ...</string>
+
+    <string name="content_email_null_after">, so your issue could be located accurately.</string>
+    <string name="content_email_null_befor">Please finish the items with</string>
+    <string name="feedback_btn">GOT IT</string>
+
+    <string name="feedback_failed">Submit failed. Please check your network, and try again.</string>
+    <string name="feedback_success">Thank you for your feedback. Given time, issues will be fixed, and suggestions will be considered. Thank you.</string>
+
+    <string name="feedback_exit">Your issue hasn\'t been submitted yet. Are you sure to exit?</string>
+    <string name="home_toast_no_internet">No available network, please retry later.</string>
+    <string name="home_disconnect_dialog_title">Do you want to disconnect?</string>
+    <string name="home_disconnect_dialog_positive">DISCONNECT</string>
+    <string name="home_disconnect_dialog_negative">VISIT</string>
+    <string name="home_disconnect_dialog_ad_body">Keep phone away from low memory warning and overheat</string>
+    <string name="home_disconnect_dialog_ad_title">Top Cleaner</string>
+
+    <string name="country_name_ae">United Arab Emirates</string>
+    <string name="country_name_ar">Argentina</string>
+    <string name="country_name_au">澳大利亞</string>
+    <string name="country_name_br">Brazil</string>
+    <string name="country_name_ca">Canada</string>
+    <string name="country_name_cn">中國</string>
+    <string name="country_name_ch">Switzerland</string>
+    <string name="country_name_de">德國</string>
+    <string name="country_name_dz">Algeria</string>
+    <string name="country_name_es">Spain</string>
+    <string name="country_name_fr">法國</string>
+    <string name="country_name_gb">英國</string>
+    <string name="country_name_hk">香港</string>
+    <string name="country_name_ie">Ireland</string>
+    <string name="country_name_in">India</string>
+    <string name="country_name_it">Italy</string>
+    <string name="country_name_jp">日本</string>
+    <string name="country_name_kr">Korea</string>
+    <string name="country_name_nl">荷蘭</string>
+    <string name="country_name_ru">俄羅斯</string>
+    <string name="country_name_sa">Saudi Arabia</string>
+    <string name="country_name_sg">新加坡</string>
+    <string name="country_name_tw">臺灣</string>
+    <string name="country_name_us">美國</string>
+</resources>
