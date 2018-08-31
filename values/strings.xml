@@ -90,7 +90,7 @@
     <string name="vip_info_text_2">Worldwide Location</string>
     <string name="vip_info_text_3">Faster Connection</string>
     <string name="vip_btn_text">Try VIP free</string>
-    <string name="loading">Loading</string>
+    <string name="loading">Loading...</string>
     <string name="vip_not_support_title">Can\'t make purchases</string>
     <string name="vip_not_support_content">Your device doesn\'t support Google play purchases at this time.</string>
     <string name="server_signal_full">Server is full, connect later</string>
